@@ -1,0 +1,39 @@
+/*
+ Theme Name:   Twenty Fifteen Child
+
+ Description:  Twenty Fifteen Child Theme
+ Author:       William Nielsen
+
+ Template:     twentyfifteen
+ Version:      1.0.0
+ 
+*/
+
+*{
+	font-family: open-sans, sans-serif;
+}
+
+.site-title a{
+	text-transform: uppercase;
+}
+
+.entry-title{
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+h1{
+	font-size: 20px;
+}
+
+h2{
+	text-decoration: underline;
+}
+#sidebar{
+	
+	background-color: #ABABAB;
+}
+
+#post-19{
+	background-color: cornsilk;
+}
